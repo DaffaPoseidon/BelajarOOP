@@ -1,0 +1,11 @@
+D:\M (3)\BahasaPemrograman\C#\OOPDasar\bin\Debug\netcoreapp3.0\OOPDasar.exe
+D:\M (3)\BahasaPemrograman\C#\OOPDasar\bin\Debug\netcoreapp3.0\OOPDasar.deps.json
+D:\M (3)\BahasaPemrograman\C#\OOPDasar\bin\Debug\netcoreapp3.0\OOPDasar.runtimeconfig.json
+D:\M (3)\BahasaPemrograman\C#\OOPDasar\bin\Debug\netcoreapp3.0\OOPDasar.runtimeconfig.dev.json
+D:\M (3)\BahasaPemrograman\C#\OOPDasar\bin\Debug\netcoreapp3.0\OOPDasar.dll
+D:\M (3)\BahasaPemrograman\C#\OOPDasar\bin\Debug\netcoreapp3.0\OOPDasar.pdb
+D:\M (3)\BahasaPemrograman\C#\OOPDasar\obj\Debug\netcoreapp3.0\OOPDasar.csprojAssemblyReference.cache
+D:\M (3)\BahasaPemrograman\C#\OOPDasar\obj\Debug\netcoreapp3.0\OOPDasar.AssemblyInfoInputs.cache
+D:\M (3)\BahasaPemrograman\C#\OOPDasar\obj\Debug\netcoreapp3.0\OOPDasar.AssemblyInfo.cs
+D:\M (3)\BahasaPemrograman\C#\OOPDasar\obj\Debug\netcoreapp3.0\OOPDasar.dll
+D:\M (3)\BahasaPemrograman\C#\OOPDasar\obj\Debug\netcoreapp3.0\OOPDasar.pdb
