@@ -33,6 +33,16 @@ namespace OOPDasar
         }
     }
 
+    public class Aerith{
+        public string nama;
+        public string asal;
+        public int umur;
+
+        public void PerkenalanDiri(){
+            Console.WriteLine($"Hai! Namaku adalah {nama}, aku tinggal di {asal}, umurku {umur}");
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -40,6 +50,7 @@ namespace OOPDasar
             OOPDasarSatu();
             OOPDasarDua();
             OOPDasarTiga();
+            Aerith();
         }
 
         private static void OOPDasarSatu()
@@ -72,6 +83,17 @@ namespace OOPDasar
             ff.gelar = "Warrior of Light";
 
             ff.Perkenalan();
+        }
+
+        private static void Aerith(){
+            Console.WriteLine("");
+            Aerith aerith = new Aerith();
+            aerith.nama = "Aerith";
+            aerith.asal = "Midgar";
+            aerith.umur = 21;
+
+            aerith.PerkenalanDiri();
+            Console.WriteLine("");
         }
     }
 }
